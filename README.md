@@ -20,7 +20,11 @@
 >In this project we created an underwater scene with a fish and shark having a conversation. Underwater scene with a shark and fish. Multiple fish in the background. The fish is telling the shark not to eat him. They are all underwater with a background that shows the depth of the ocean. 
 
 >[Animation]
+>
 >[Interactive Card]
+>
 >[Side Scroller]
+>
 >[Flyer Game]
+>
 >[Project-Design a game]
