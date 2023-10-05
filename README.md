@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
 >[Caption Scene](https://studio.code.org/projects/gamelab/78bCfNmtV3Xn1SEsFOmxM3MTQtERBqr112ewyMl4bS0/edit)
->In this proeject we created an underwater scene with a fish and shark having a conversation. 
+>In this proeject we created an underwater scene with a fish and shark having a conversation. Underwater scene with a shark and fish. Multiple fish in the background. The fish is telling the shark not to eat him. They are all underwater with a background that shows the depth of the ocean. 
