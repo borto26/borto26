@@ -1,3 +1,4 @@
+![octocat use-1696334551509](https://github.com/borto26/borto26/assets/146837733/0f757cbe-73e9-4ab4-8925-5b5937c278e0)
 ### Hi there 👋 borto26
 
 <!--
