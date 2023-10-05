@@ -1,10 +1,9 @@
 ![octocat use-1696334551509](https://github.com/borto26/borto26/assets/146837733/0f757cbe-73e9-4ab4-8925-5b5937c278e0)
 ### Hi there 👋 borto26
 
-<!--
+<
 **borto26/borto26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 👋 Hi, I’m @borto26
 - 👀 I’m am student at Walpole High School
