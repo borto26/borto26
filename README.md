@@ -21,7 +21,8 @@
 
 >[Animation]
 >
->[Interactive Card]
+>[Interactive Card](https://studio.code.org/projects/gamelab/4WW6O44y5Qiyx7kMGwy03t9_aExBsf4p4HKrDLRqkkM)
+>In this project we created a poster for people to come to a guitarists concert. We used multiple sprites and conditionals to make the sprites move when user clicks correct imput. This is an interactive card with moving music notes and changing lights. 
 >
 >[Side Scroller]
 >
