@@ -27,6 +27,7 @@
 >[Side Scroller](https://studio.code.org/projects/gamelab/zb1r0DtLI9bDEJDuIqAxIdykgqULtDKbx5b82groRSM)
 >In this project we created a game with three different sprites. We had a target, player, and obstacle. To make the player jump you have to press the space key. The player sprite wants to hit the target in order to increase the score. If they player hits the obstacle, then their health will go down.
 >
->[Flyer Game]
+>[Flyer Game](https://studio.code.org/projects/gamelab/fPu31y7VefDB4BkUwQGBTA4gWln3V1gSmZOPdtFBNZs)
+>In the project we created a game where you have to find the target while tryig not to hit the obstacle. The target moves everything you hit it. The goal is to beat your high score each time without losing health. Everytime you hit an obstacle your health will go down until you run out of health. 
 >
 >[Project-Design a game]
