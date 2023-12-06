@@ -30,4 +30,5 @@
 >[Flyer Game](https://studio.code.org/projects/gamelab/fPu31y7VefDB4BkUwQGBTA4gWln3V1gSmZOPdtFBNZs)
 >In the project we created a game where you have to find the target while tryig not to hit the obstacle. The target moves everything you hit it. The goal is to beat your high score each time without losing health. Everytime you hit an obstacle your health will go down until you run out of health. 
 >
->[Project-Design a game]
+>[Project-Design a game](https://studio.code.org/projects/gamelab/bjCOvLgBY_DnjxZZbhwN--MGs9CuGGIWQdMP6xpbzNA).
+>In this project I made a game where a dog is  to get an a soccerball and tennis ball while also avoiding the girl. The arrow keys to control the dog, while the girl is just going to move on and off the screen on a loop. I used functions to keep the game moving smooothly. The variable score goes up everytime the dog hits the soccer or tennis ball. The variable for lives go down everytime the dog collides with the girl. The game automatically ends if the dog falls of the bottom of the screen. 
