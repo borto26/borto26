@@ -16,7 +16,7 @@
 >[Robot Face](https://studio.code.org/s/csd3-2023/lessons/7/levels/2)
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
->[Caption Scene](https://studio.code.org/projects/gamelab/78bCfNmtV3Xn1SEsFOmxM3MTQtERBqr112ewyMl4bS0/edit)
+>[Caption Scene](https://studio.code.org/projects/gamelab/78bCfNmtV3Xn1SEsFOmxM3MTQtERBqr112ewyMl4bS0)
 >In this project we created an underwater scene with a fish and shark having a conversation. Underwater scene with a shark and fish. Multiple fish in the background. The fish is telling the shark not to eat him. They are all underwater with a background that shows the depth of the ocean. 
 
 >[Interactive Card](https://studio.code.org/projects/gamelab/4WW6O44y5Qiyx7kMGwy03t9_aExBsf4p4HKrDLRqkkM)
