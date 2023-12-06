@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @borto26
 - 👀 I’m am student at Walpole High School
 - :octocat: I’m currently taking Intro to Programming
-- :information_desk_person: I’m looking to collaborate with other students & educators
+- :information_desk_person: I’m looking to collaborate with other students
 - 📫 How to reach me ... bortoj26@wpsma.org
 
 ###Code.org GameLab
@@ -32,3 +32,4 @@
 >In this project I made a game where a dog is  to get an a soccerball and tennis ball while also avoiding the girl. The arrow keys to control the dog, while the girl is just going to move on and off the screen on a loop. I used functions to keep the game moving smooothly. The variable score goes up everytime the dog hits the soccer or tennis ball. The variable for lives go down everytime the dog collides with the girl. The game automatically ends if the dog falls of the bottom of the screen. 
 
 >[Mini-Platform Jumper](https://studio.code.org/projects/gamelab/bBUf53k9ndp_GzDk9pzMtNrZniyePmVTtOcOiGaOt_s).
+>In this project we made a game where there is an owl sprite trying to get the books that are falling from the sky. There will be platforms that the owl can land on. The score will then go up when the owl hits the books. If the owl collides with a plane sprite or if the owl falls of the bottom of the screen then the game will be over.  
