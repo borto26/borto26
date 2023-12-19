@@ -33,3 +33,12 @@
 
 >[Project-Design a game](https://studio.code.org/projects/gamelab/bjCOvLgBY_DnjxZZbhwN--MGs9CuGGIWQdMP6xpbzNA).
 >In this project I made a game where a dog is  to get an a soccerball and tennis ball while also avoiding the girl. The arrow keys to control the dog, while the girl is just going to move on and off the screen on a loop. I used functions to keep the game moving smooothly. The variable score goes up everytime the dog hits the soccer or tennis ball. The variable for lives go down everytime the dog collides with the girl. The game automatically ends if the dog falls of the bottom of the screen. 
+
+>[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=14ac46d4-5207-45e4-85d7-cbf60e8b6605).
+>This is a app where you can click different buttons and sounds related to the instrument will play. There is also button that you can record the sounds and then play the recording back.
+
+>[Animal Sounds](https://gallery.appinventor.mit.edu/?galleryid=595ae2e1-5a95-4336-a428-1de5e5513afc).
+>This is an app where you can click an animal and a random sound wll play. The sound will not alway align was the animal that was clicked.
+
+>[Piano Player](https://gallery.appinventor.mit.edu/?galleryid=2b102cc5-5a9a-4a5f-87c0-87139a1d775a).
+>In this app you can play the piano. The keys on the piano match up to all the keys on a real piano. There is also the black and white keys and they are different lengths. 
