@@ -44,4 +44,4 @@
 >In this app you can play the piano. The keys on the piano match up to all the keys on a real piano. There is also the black and white keys and they are different lengths. 
 
 >[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=3980b9aa-8572-4ad3-9831-129f4a8be469).
->In this app it is a maze game where you have to move the phone to over the object around the maze to find the gold at the end. There is a timer, a counter, and their are lives.
+>In this app it is a maze game where you have to move the phone to over the object around the maze to find the gold at the end. There is a timer, a counter, and there are lives.
