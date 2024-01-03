@@ -45,3 +45,6 @@
 
 >[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=3980b9aa-8572-4ad3-9831-129f4a8be469).
 >In this app it is a maze game where you have to move the phone to over the object around the maze to find the gold at the end. There is a timer, a counter, and there are lives.
+
+>[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=5ef9dd6f-9867-4377-bbc6-1edfe4bef6bd).
+>This is a app where you have to flick the balls around the screen to find the target. The targets are different animals. As you get more points the size of the balls will increase.
