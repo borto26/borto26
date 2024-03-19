@@ -11,7 +11,7 @@
 - :information_desk_person: I’m looking to collaborate with other students
 - 📫 How to reach me ... bortoj26@wpsma.org
 
-###Code.org GameLab
+### Code.org GameLab
 
 >[Robot Face](https://studio.code.org/projects/gamelab/zJ1ElQyTE2E5sFEpg08aP467pZ1ys9RiCfcrRteUwNc)
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
@@ -34,7 +34,7 @@
 >[Project-Design a game](https://studio.code.org/projects/gamelab/bjCOvLgBY_DnjxZZbhwN--MGs9CuGGIWQdMP6xpbzNA).
 >In this project I made a game where a dog is  to get an a soccerball and tennis ball while also avoiding the girl. The arrow keys to control the dog, while the girl is just going to move on and off the screen on a loop. I used functions to keep the game moving smooothly. The variable score goes up everytime the dog hits the soccer or tennis ball. The variable for lives go down everytime the dog collides with the girl. The game automatically ends if the dog falls of the bottom of the screen.
 
-###MIT App Inventor
+### MIT App Inventor
 
 >[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=14ac46d4-5207-45e4-85d7-cbf60e8b6605).
 >This is a app where you can click different buttons and sounds related to the instrument will play. There is also button that you can record the sounds and then play the recording back.
@@ -51,7 +51,10 @@
 >[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=5ef9dd6f-9867-4377-bbc6-1edfe4bef6bd).
 >This is a app where you have to flick the balls around the screen to find the target. The targets are different animals. As you get more points the size of the balls will increase.
 
-###Python
+### Python
 
 >[Creative Task-Beach Scene](https://academy.cs.cmu.edu/sharing/crimsonPanda1847).
 >This is a picture that shows a sunset with clouds, the sand, and a gradient water. There is a label that tell reader the location of the beach. All the the materials learned in the beginning of the lesson are used in the picture.
+
+>[Creative Task-Easter Scene](https://academy.cs.cmu.edu/sharing/plumDeer7943).
+>This is a scrnec with an Easter basket, grass and an egg counter. When you click in the basket eggs will appear and the counter will increase. You can stack eggs on top of each other and there is no limit to the amount of eggs.
