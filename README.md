@@ -1,7 +1,7 @@
 ![octocat use-1696334551509](https://github.com/borto26/borto26/assets/146837733/0f757cbe-73e9-4ab4-8925-5b5937c278e0)
 ### Hi there 👋 borto26
 
-<
+
 **borto26/borto26** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 
@@ -59,6 +59,6 @@
 >[Creative Task-Easter Scene](https://academy.cs.cmu.edu/sharing/plumDeer7943).
 >This is a scene with an Easter basket, grass and an egg counter. When you click in the basket eggs will appear and the counter will increase. You can stack eggs on top of each other and there is no limit to the amount of eggs.
 
->[Creative Task-Worm comes and goes](https://academy.cs.cmu.edu/sharing/pinkFish2481).
+>[Creative Task-Worm Comes and Goes](https://academy.cs.cmu.edu/sharing/pinkFish2481).
 >This is a scene where you have to move your mouse around. If your mouse is at certain spot on the screen the sun will come out and the worms will go away. But if you choose a different spot for your mouse,  the sky will go dark, clouds will appear, and the worms will be seen.
 
