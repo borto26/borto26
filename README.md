@@ -57,4 +57,8 @@
 >This is a picture that shows a sunset with clouds, the sand, and a gradient water. There is a label that tell reader the location of the beach. All the the materials learned in the beginning of the lesson are used in the picture.
 
 >[Creative Task-Easter Scene](https://academy.cs.cmu.edu/sharing/plumDeer7943).
->This is a scrnec with an Easter basket, grass and an egg counter. When you click in the basket eggs will appear and the counter will increase. You can stack eggs on top of each other and there is no limit to the amount of eggs.
+>This is a scene with an Easter basket, grass and an egg counter. When you click in the basket eggs will appear and the counter will increase. You can stack eggs on top of each other and there is no limit to the amount of eggs.
+
+>[Creative Task-Worm comes and goes](https://academy.cs.cmu.edu/sharing/pinkFish2481).
+>This is a scene where you have to move your mouse around. If your mouse is at certain spot on the screen the sun will come out and the worms will go away. But if you choose a different spot for your mouse,  the sky will go dark, clouds will appear, and the worms will be seen.
+
