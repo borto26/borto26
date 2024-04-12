@@ -62,3 +62,5 @@
 >[Creative Task-Worm Comes and Goes](https://academy.cs.cmu.edu/sharing/pinkFish2481).
 >This is a scene where you have to move your mouse around. If your mouse is at certain spot on the screen the sun will come out and the worms will go away. But if you choose a different spot for your mouse,  the sky will go dark, clouds will appear, and the worms will be seen.
 
+>[Creative Task-Change Flower Color](https://academy.cs.cmu.edu/sharing/chartreuseHippo4560).
+>This is a scene where you have to press the number keys on the keyboard for the petals of the flower to change. There are directions and a background to go with the flower. 
