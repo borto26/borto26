@@ -67,4 +67,3 @@
 
 >[Creative Task-Butterfly Mover](https://academy.cs.cmu.edu/sharing/chocolateDuck5738).
 > This is a scene where you have to press the arrow keys to get the butterfly to move. We used On Key Holds, 'If and Then' statements, and group codes. The background moves with the butterfly so the scene will look continuous. 
-Th
