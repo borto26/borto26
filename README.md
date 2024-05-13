@@ -63,4 +63,8 @@
 >This is a scene where you have to move your mouse around. If your mouse is at certain spot on the screen the sun will come out and the worms will go away. But if you choose a different spot for your mouse,  the sky will go dark, clouds will appear, and the worms will be seen.
 
 >[Creative Task-Change Flower Color](https://academy.cs.cmu.edu/sharing/chartreuseHippo4560).
->This is a scene where you have to press the number keys on the keyboard for the petals of the flower to change. There are directions and a background to go with the flower. 
+>This is a scene where you have to press the number keys on the keyboard for the petals of the flower to change. There are directions and a background to go with the flower.
+
+>[Creative Task-Butterfly Mover](https://academy.cs.cmu.edu/sharing/chocolateDuck5738).
+> This is a scene where you have to press the arrow keys to get the butterfly to move. We used On Key Holds, 'If and Then' statements, and group codes. The background moves with the butterfly so the scene will look continuous. 
+Th
