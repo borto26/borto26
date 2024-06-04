@@ -11,7 +11,7 @@
 - :information_desk_person: I’m looking to collaborate with other students
 - 📫 How to reach me ... bortoj26@wpsma.org
 
-### Code.org GameLab
+### GameLab
 
 >[Robot Face](https://studio.code.org/projects/gamelab/zJ1ElQyTE2E5sFEpg08aP467pZ1ys9RiCfcrRteUwNc)
 >In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
