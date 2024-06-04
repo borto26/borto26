@@ -51,7 +51,7 @@
 >[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=5ef9dd6f-9867-4377-bbc6-1edfe4bef6bd).
 >This is a app where you have to flick the balls around the screen to find the target. The targets are different animals. As you get more points the size of the balls will increase.
 
-### Python
+### CMU Creative Tasks
 
 >[Creative Task-Beach Scene](https://academy.cs.cmu.edu/sharing/crimsonPanda1847).
 >This is a picture that shows a sunset with clouds, the sand, and a gradient water. There is a label that tell reader the location of the beach. All the the materials learned in the beginning of the lesson are used in the picture.
